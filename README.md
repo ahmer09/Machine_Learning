@@ -8,3 +8,9 @@ The code is getting updated as the Chapters flow. Please find the description of
 
 EndtoEnd : Provides a good view of a Machine Learning Project looks like. It introduces to some tools and libraries that can be used to train 
 a great system.
+
+Classification : Running Random Forest model to predict MNIST dataset from sckit-learn package. The notebook provides insights to creating clasfication model and evaluating their accuracy.
+
+airbnb : The notebook introduces key concepts related to data analysis of Airbnb(Amsterdam) data listings provided by Kaggle Compitetions.
+
+ChurnEngine : Prediction model to churn the possibility of exit of Bank Customers. The data was provided by Kaggle (https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers)
