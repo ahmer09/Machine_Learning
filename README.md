@@ -14,3 +14,5 @@ Classification : Running Random Forest model to predict MNIST dataset from sckit
 airbnb : The notebook introduces key concepts related to data analysis of Airbnb(Amsterdam) data listings provided by Kaggle Compitetions.https://www.kaggle.com/erikbruin/airbnb-amsterdam
 
 ChurnEngine : Prediction model to churn the possibility of exit of Bank Customers. The data was provided by Kaggle (https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers)
+
+ForestCover_classification : Use cartographic variables to classify forest categories (https://www.kaggle.com/c/forest-cover-type-prediction/overview)
